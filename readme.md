@@ -38,6 +38,4 @@
    - Students will work on a final project of their choice (a simple project related to their individual domains).
    - Push the project to the individual student's branch in the GitHub repository.
 
-## Some useful repo 
-[Trelis's code for llm](https://github.com/TrelisResearch/install-guides)
 
